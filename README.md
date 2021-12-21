@@ -2,5 +2,5 @@
 
 Please find the data here:
 
-- https://data.cityofnewyork.us/Transportation/Citywide-Mobility-Survey-Person-Survey-2019/6bqn-qdwq0
+- https://data.cityofnewyork.us/Transportation/Citywide-Mobility-Survey-Person-Survey-2019/6bqn-qdwq
 - https://data.cityofnewyork.us/Transportation/Citywide-Mobility-Survey-Trip-Survey-2019/w9dc-u4ik
